@@ -20,7 +20,6 @@ namespace Tyuiu.IlyinME.Sprint3.Task0.V30.Test
             double wait = 2477.158;
 
             Assert.AreEqual(wait, res);
-
         }
     }
 }

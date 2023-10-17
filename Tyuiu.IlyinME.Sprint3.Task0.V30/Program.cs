@@ -37,7 +37,6 @@ namespace Tyuiu.IlyinME.Sprint3.Task0.V30
             Console.WriteLine("Старт шага: " + startValue);
             Console.WriteLine("Конец шага: " + stopValue);
 
-
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
