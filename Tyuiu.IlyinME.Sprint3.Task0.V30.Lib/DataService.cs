@@ -19,6 +19,7 @@ namespace Tyuiu.IlyinME.Sprint3.Task0.V30.Lib
                 MultiplySeries = MultiplySeries * (i / Math.Pow(Math.Sin(1), -10));
             }
             return Math.Round(MultiplySeries, 3);
+
         }
     }
 }
